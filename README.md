@@ -1,2 +1,4 @@
 # hello-world
-This is a hello world repository
+Hi I'm Suzan
+I love C# anf PHP and i am new to Github.
+I just want to start something cool.
